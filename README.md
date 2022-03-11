@@ -4,6 +4,7 @@ A standalone Python program to handle HTTP GET and POST requests to https://hast
 # This project refers to https://hastebin.app/, NOT https://hastebin.com/ - the first being a lightweight alternative of the latter!
 
 **Installation**
+
 This program must be run via a command line interface, and does not require specific installation.
 
 **Use**
