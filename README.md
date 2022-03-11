@@ -7,6 +7,7 @@ A standalone Python program to handle HTTP GET and POST requests to https://hast
 This program must be run via a command line interface, and does not require specific installation.
 
 **Use**
+
 To upload a file, use the following syntax:
 
 `python Hastebin.py -u name_of_file.txt`
