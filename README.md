@@ -1,6 +1,7 @@
 # hastebin-python
 A standalone Python program to handle HTTP GET and POST requests to https://hastebin.app/
-**See planned updates [here](https://trello.com/b/dnDzcSgM/hastebin-python).
+
+**See planned updates [here](https://trello.com/b/dnDzcSgM/hastebin-python).**
 
 # This project refers to [Hastebin.app](https://hastebin.app/), NOT [Hastebin.com](https://hastebin.com/) - the first being a variation of the latter!
 
