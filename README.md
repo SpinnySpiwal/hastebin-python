@@ -1,7 +1,7 @@
 # hastebin-python
 A standalone Python program to handle HTTP GET and POST requests to https://hastebin.app/
 
-# This project refers to https://hastebin.app/, NOT https://hastebin.com/ - the first being a lightweight alternative of the latter!
+# This project refers to [Hastebin.app](https://hastebin.app/), NOT [Hastebin.com](https://hastebin.com/) - the first being a variation of the latter!
 
 **Installation**
 
@@ -17,6 +17,6 @@ To download a file, use the following syntax:
 
 `python Hastebin.py -d end_string_for_website optional_name_to_save_to.txt`
 
-Currently, this doesn't support multi-file upload. I plan to implement this in the future - hang tight!
+Currently, there isn't support for multi-file upload. I plan to implement this in the future - hang tight!
 
-I've only tested text files, not other formats, so please do email or post any bugs on the Github.
+I've only tested text files, not other formats, so please email me bugs. I promise I'll check my email at some point... probably.
